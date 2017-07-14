@@ -1,0 +1,30 @@
+﻿生成启动时间为 2017/7/7 11:00:45。
+     1>项目“C:\Users\EVAN\Desktop\Slam\BUPTSLAM_V7\BUPTSLAM\BUPTSLAM\BUPTSLAM.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\EVAN\Desktop\Slam\BUPTSLAM_V7\BUPTSLAM\x64\Release\BUPTSLAM.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:D:\Install\Opencv3\opencv\build\x86\vc12\lib opencv_world310.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\EVAN\Desktop\Slam\BUPTSLAM_V7\BUPTSLAM\x64\Release\BUPTSLAM.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\EVAN\Desktop\Slam\BUPTSLAM_V7\BUPTSLAM\x64\Release\BUPTSLAM.lib" /MACHINE:X64 x64\Release\carmenconfiguration.obj
+         x64\Release\configfile.obj
+         x64\Release\configuration.obj
+         x64\Release\gridslamprocessor.obj
+         x64\Release\gridslamprocessor_tree.obj
+         x64\Release\main.obj
+         x64\Release\motionmodel.obj
+         x64\Release\movement.obj
+         x64\Release\odometryreading.obj
+         x64\Release\odometrysensor.obj
+         x64\Release\rangereading.obj
+         x64\Release\rangesensor.obj
+         x64\Release\scanmatcher.obj
+         x64\Release\sensor.obj
+         x64\Release\sensorlog.obj
+         x64\Release\sensorreading.obj
+         x64\Release\smmap.obj
+         x64\Release\sse_math.obj
+         x64\Release\stat.obj
+         正在生成代码
+         已完成代码的生成
+         BUPTSLAM.vcxproj -> C:\Users\EVAN\Desktop\Slam\BUPTSLAM_V7\BUPTSLAM\x64\Release\BUPTSLAM.exe
+     1>已完成生成项目“C:\Users\EVAN\Desktop\Slam\BUPTSLAM_V7\BUPTSLAM\BUPTSLAM\BUPTSLAM.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.66

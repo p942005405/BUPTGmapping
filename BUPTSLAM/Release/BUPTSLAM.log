@@ -1,0 +1,134 @@
+﻿生成启动时间为 2017/1/13 18:30:37。
+     1>项目“D:\SLAM\BUPTSLAM\BUPTSLAM\BUPTSLAM.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ID:\Install\boost_1_63_0\boost_1_63_0 /ID:\Install\Opencv3\opencv\build\include /ID:\Install\Opencv3\opencv\build\include\opencv /ID:\Install\Opencv3\opencv\build\include\opencv2 /Zi /nologo /W3 /WX- /sdl /MP /O2 /Oi /Oy- /GL /D USE_SSE2 /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt gridslamprocessor.cpp gridslamprocessor_tree.cpp main.cpp scanmatcher.cpp
+         gridslamprocessor.cpp
+         gridslamprocessor_tree.cpp
+     1>gridslamprocessor.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>gridslamprocessor_tree.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         main.cpp
+         scanmatcher.cpp
+     1>scanmatcher.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\slam\buptslam\buptslam\scanmatcher.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (scanmatcher.cpp)
+     1>d:\slam\buptslam\buptslam\gridslamprocessor.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (gridslamprocessor_tree.cpp)
+     1>d:\slam\buptslam\buptslam\gridslamprocessor.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (gridslamprocessor.cpp)
+     1>d:\slam\buptslam\buptslam\scanmatcher.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (gridslamprocessor.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(85): warning C4305: “初始化”: 从“double”到“const float”截断 (gridslamprocessor.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(86): warning C4305: “初始化”: 从“double”到“const float”截断 (gridslamprocessor.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(87): warning C4305: “初始化”: 从“double”到“const float”截断 (gridslamprocessor.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(88): warning C4305: “初始化”: 从“double”到“const float”截断 (gridslamprocessor.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(89): warning C4305: “初始化”: 从“double”到“const float”截断 (gridslamprocessor.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(90): warning C4305: “初始化”: 从“double”到“const float”截断 (gridslamprocessor.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(91): warning C4305: “初始化”: 从“double”到“const float”截断 (gridslamprocessor.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(92): warning C4305: “初始化”: 从“double”到“const float”截断 (gridslamprocessor.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(93): warning C4305: “初始化”: 从“double”到“const float”截断 (gridslamprocessor.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(94): warning C4305: “初始化”: 从“double”到“const float”截断 (gridslamprocessor.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(95): warning C4305: “初始化”: 从“double”到“const float”截断 (gridslamprocessor.cpp)
+     1>d:\slam\buptslam\buptslam\scanmatcher.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (gridslamprocessor_tree.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(85): warning C4305: “初始化”: 从“double”到“const float”截断 (gridslamprocessor_tree.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(86): warning C4305: “初始化”: 从“double”到“const float”截断 (gridslamprocessor_tree.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(87): warning C4305: “初始化”: 从“double”到“const float”截断 (gridslamprocessor_tree.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(88): warning C4305: “初始化”: 从“double”到“const float”截断 (gridslamprocessor_tree.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(89): warning C4305: “初始化”: 从“double”到“const float”截断 (gridslamprocessor_tree.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(90): warning C4305: “初始化”: 从“double”到“const float”截断 (gridslamprocessor_tree.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(91): warning C4305: “初始化”: 从“double”到“const float”截断 (gridslamprocessor_tree.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(92): warning C4305: “初始化”: 从“double”到“const float”截断 (gridslamprocessor_tree.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(93): warning C4305: “初始化”: 从“double”到“const float”截断 (gridslamprocessor_tree.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(94): warning C4305: “初始化”: 从“double”到“const float”截断 (gridslamprocessor_tree.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(95): warning C4305: “初始化”: 从“double”到“const float”截断 (gridslamprocessor_tree.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(85): warning C4305: “初始化”: 从“double”到“const float”截断 (scanmatcher.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(86): warning C4305: “初始化”: 从“double”到“const float”截断 (scanmatcher.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(87): warning C4305: “初始化”: 从“double”到“const float”截断 (scanmatcher.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(88): warning C4305: “初始化”: 从“double”到“const float”截断 (scanmatcher.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(89): warning C4305: “初始化”: 从“double”到“const float”截断 (scanmatcher.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(90): warning C4305: “初始化”: 从“double”到“const float”截断 (scanmatcher.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(91): warning C4305: “初始化”: 从“double”到“const float”截断 (scanmatcher.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(92): warning C4305: “初始化”: 从“double”到“const float”截断 (scanmatcher.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(93): warning C4305: “初始化”: 从“double”到“const float”截断 (scanmatcher.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(94): warning C4305: “初始化”: 从“double”到“const float”截断 (scanmatcher.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(95): warning C4305: “初始化”: 从“double”到“const float”截断 (scanmatcher.cpp)
+     1>d:\slam\buptslam\buptslam\scanmatcher.h(307): warning C4018: “<”: 有符号/无符号不匹配 (gridslamprocessor_tree.cpp)
+     1>d:\slam\buptslam\buptslam\scanmatcher.h(309): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (gridslamprocessor_tree.cpp)
+     1>d:\slam\buptslam\buptslam\scanmatcher.h(310): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (gridslamprocessor_tree.cpp)
+     1>d:\slam\buptslam\buptslam\scanmatcher.h(311): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (gridslamprocessor_tree.cpp)
+     1>d:\slam\buptslam\buptslam\scanmatcher.h(312): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (gridslamprocessor_tree.cpp)
+     1>d:\slam\buptslam\buptslam\scanmatcher.h(307): warning C4018: “<”: 有符号/无符号不匹配 (gridslamprocessor.cpp)
+     1>d:\slam\buptslam\buptslam\scanmatcher.h(309): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (gridslamprocessor.cpp)
+     1>d:\slam\buptslam\buptslam\scanmatcher.h(310): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (gridslamprocessor.cpp)
+     1>d:\slam\buptslam\buptslam\scanmatcher.h(311): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (gridslamprocessor.cpp)
+     1>d:\slam\buptslam\buptslam\scanmatcher.h(312): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (gridslamprocessor.cpp)
+     1>d:\slam\buptslam\buptslam\scanmatcher.h(307): warning C4018: “<”: 有符号/无符号不匹配 (scanmatcher.cpp)
+     1>d:\slam\buptslam\buptslam\scanmatcher.h(309): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (scanmatcher.cpp)
+     1>d:\slam\buptslam\buptslam\scanmatcher.h(310): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (scanmatcher.cpp)
+     1>d:\slam\buptslam\buptslam\scanmatcher.h(311): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (scanmatcher.cpp)
+     1>d:\slam\buptslam\buptslam\scanmatcher.h(312): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (scanmatcher.cpp)
+     1>D:\Install\Opencv3\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (gridslamprocessor_tree.cpp)
+     1>D:\Install\Opencv3\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (gridslamprocessor.cpp)
+     1>D:\Install\Opencv3\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (gridslamprocessor_tree.cpp)
+     1>D:\Install\Opencv3\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (gridslamprocessor.cpp)
+     1>D:\Install\Opencv3\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (gridslamprocessor_tree.cpp)
+     1>D:\Install\Opencv3\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (gridslamprocessor.cpp)
+     1>d:\slam\buptslam\buptslam\gridslamprocessor.h(254): warning C4800: “double”: 将值强制为布尔值“true”或“false”(性能警告) (gridslamprocessor_tree.cpp)
+     1>d:\slam\buptslam\buptslam\gridslamprocessor.h(346): warning C4018: “<”: 有符号/无符号不匹配 (gridslamprocessor_tree.cpp)
+     1>d:\slam\buptslam\buptslam\gridslamprocessor.h(398): warning C4018: “<”: 有符号/无符号不匹配 (gridslamprocessor_tree.cpp)
+     1>d:\slam\buptslam\buptslam\gridslamprocessor.h(425): warning C4018: “<”: 有符号/无符号不匹配 (gridslamprocessor_tree.cpp)
+     1>d:\slam\buptslam\buptslam\gridslamprocessor.h(254): warning C4800: “double”: 将值强制为布尔值“true”或“false”(性能警告) (gridslamprocessor.cpp)
+     1>d:\slam\buptslam\buptslam\gridslamprocessor.h(346): warning C4018: “<”: 有符号/无符号不匹配 (gridslamprocessor.cpp)
+     1>d:\slam\buptslam\buptslam\gridslamprocessor.h(398): warning C4018: “<”: 有符号/无符号不匹配 (gridslamprocessor.cpp)
+     1>d:\slam\buptslam\buptslam\gridslamprocessor.h(425): warning C4018: “<”: 有符号/无符号不匹配 (gridslamprocessor.cpp)
+     1>d:\slam\buptslam\buptslam\gridslamprocessor.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (main.cpp)
+     1>d:\slam\buptslam\buptslam\scanmatcher.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (main.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(85): warning C4305: “初始化”: 从“double”到“const float”截断 (main.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(86): warning C4305: “初始化”: 从“double”到“const float”截断 (main.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(87): warning C4305: “初始化”: 从“double”到“const float”截断 (main.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(88): warning C4305: “初始化”: 从“double”到“const float”截断 (main.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(89): warning C4305: “初始化”: 从“double”到“const float”截断 (main.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(90): warning C4305: “初始化”: 从“double”到“const float”截断 (main.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(91): warning C4305: “初始化”: 从“double”到“const float”截断 (main.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(92): warning C4305: “初始化”: 从“double”到“const float”截断 (main.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(93): warning C4305: “初始化”: 从“double”到“const float”截断 (main.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(94): warning C4305: “初始化”: 从“double”到“const float”截断 (main.cpp)
+     1>d:\slam\buptslam\buptslam\sse_mathfun.h(95): warning C4305: “初始化”: 从“double”到“const float”截断 (main.cpp)
+     1>d:\slam\buptslam\buptslam\scanmatcher.h(307): warning C4018: “<”: 有符号/无符号不匹配 (main.cpp)
+     1>d:\slam\buptslam\buptslam\scanmatcher.h(309): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (main.cpp)
+     1>d:\slam\buptslam\buptslam\scanmatcher.h(310): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (main.cpp)
+     1>d:\slam\buptslam\buptslam\scanmatcher.h(311): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (main.cpp)
+     1>d:\slam\buptslam\buptslam\scanmatcher.h(312): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (main.cpp)
+     1>D:\Install\Opencv3\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (main.cpp)
+     1>D:\Install\Opencv3\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (main.cpp)
+     1>D:\Install\Opencv3\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (main.cpp)
+     1>d:\slam\buptslam\buptslam\gridslamprocessor.h(254): warning C4800: “double”: 将值强制为布尔值“true”或“false”(性能警告) (main.cpp)
+     1>d:\slam\buptslam\buptslam\gridslamprocessor.h(346): warning C4018: “<”: 有符号/无符号不匹配 (main.cpp)
+     1>d:\slam\buptslam\buptslam\gridslamprocessor.h(398): warning C4018: “<”: 有符号/无符号不匹配 (main.cpp)
+     1>d:\slam\buptslam\buptslam\gridslamprocessor.h(425): warning C4018: “<”: 有符号/无符号不匹配 (main.cpp)
+     1>main.cpp(58): warning C4101: “theta1”: 未引用的局部变量
+     1>main.cpp(177): warning C4244: “参数”: 从“time_t”转换到“unsigned long”，可能丢失数据
+     1>main.cpp(218): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\SLAM\BUPTSLAM\Release\BUPTSLAM.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:D:\Install\Opencv3\opencv\build\x86\vc12\lib opencv_world300.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\SLAM\BUPTSLAM\Release\BUPTSLAM.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\SLAM\BUPTSLAM\Release\BUPTSLAM.lib" /MACHINE:X86 /SAFESEH Release\carmenconfiguration.obj
+         Release\configfile.obj
+         Release\configuration.obj
+         Release\gridslamprocessor.obj
+         Release\gridslamprocessor_tree.obj
+         Release\main.obj
+         Release\motionmodel.obj
+         Release\movement.obj
+         Release\odometryreading.obj
+         Release\odometrysensor.obj
+         Release\rangereading.obj
+         Release\rangesensor.obj
+         Release\scanmatcher.obj
+         Release\sensor.obj
+         Release\sensorlog.obj
+         Release\sensorreading.obj
+         Release\smmap.obj
+         Release\sse_math.obj
+         Release\stat.obj
+         正在生成代码
+         已完成代码的生成
+         BUPTSLAM.vcxproj -> D:\SLAM\BUPTSLAM\Release\BUPTSLAM.exe
+     1>已完成生成项目“D:\SLAM\BUPTSLAM\BUPTSLAM\BUPTSLAM.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.33
